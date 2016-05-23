@@ -1,0 +1,10 @@
+/build
+/.gradle
+/.idea
+*.iml
+/web/js/app/
+/web/js/lib/kotlin.js
+/web/js/lib/stdlib.meta.js
+/web/js/app.js
+/web/js/app.js.map
+/web/js/app.meta.js
